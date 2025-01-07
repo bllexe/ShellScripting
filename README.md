@@ -1,4 +1,3 @@
-# Drink Water Reminder
 
 #### set script to crontab -e and set  every two hours like will working
 #### if you want to get audio voice before you install espeak  **sudo apt-get install** with this command
